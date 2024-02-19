@@ -1,6 +1,7 @@
 {
 "spider":"./jar/pg.jar;md5;2439bccf8b413976b3176f9a0aa8262e",
 "sites":[
+{"key":"lf_js_lf_live","name":"直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live1.txt"},
 {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
 {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
