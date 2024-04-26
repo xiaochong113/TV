@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;20951b7b8b4979ec1214839a2b2e36b8",
+"spider":"./jar/pg.jar;md5;7220fdfda5e9dbc5521baf2b25d8706c",
 "sites":[
 {"key":"lf_js_lf_live","name":"直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live1.txt"},
 {"key":"ss直播","name":"ss直播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/ss直播.js"},
