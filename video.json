@@ -3,8 +3,8 @@
 "logo":"https://cdn.pixabay.com/photo/2020/08/09/11/43/woman-5475306_1280.jpg",
 "sites":[
 {"key":"lf_js_lf_live","name":"直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live1.txt"},
-{"key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/91黑料.json"},
-{"key":"色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/色花堂.json","jar":"./jar/XBPQ.jar;md5;423e33ec108c0f7816200cebaf18fb69"},
+{"key":"91黑料","name":"91黑料","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/91黑料.json"},
+{"key":"色花堂","name":"色花堂","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/色花堂.json","jar":"./jar/XBPQ.jar;md5;186644783c2436cdcdba8521637d9bdd"},
 {"key":"Cable","name":"CableAV","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60},
 {"key":"Xojav","name":"XOJav","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"null$$$proxy","style": {"type": "rect","ratio": 1.5}},
 {"key":"csp_JavBus","name":"JavBus","type":3,"api":"csp_JavBus","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.77},"timeout":60,"ext":"http://127.0.0.1:9978/file/TV/token.json"},
